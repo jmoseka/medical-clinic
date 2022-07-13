@@ -1,31 +1,38 @@
 # curriculum-databases-projects-template
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+This project implement the SQL needed to build a database based on the diagram
+
+![image](https://user-images.githubusercontent.com/61447440/178707008-30609eca-fc95-465a-b3da-7527383d6843.png)
 
 
 ## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
+This repository has a file with plain SQL that can be used to recreate a database.
 
 ## Authors
 
-👤 **Author1**
+## Author 1:
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Jamila Moseka**
 
-👤 **Author2**
+- GitHub: [@jmoseka](https://github.com/jmoseka)
+- Twitter: [@milamoseka](https://twitter.com/milamoseka)
+- LinkedIn: [jamila-moseka](https://linkedin.com/in/jamila-moseka)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Author 2:
+👤 **Brian Nyachae**
+
+- GitHub: [@githubBria222](https://github.com/Bria222)
+- Twitter: [@briannyachae9](https://twitter.com/briannyachae9)
+- LinkedIn: [Brian-Nyachae](https://linkedin.com/in/brian-nyachae)
+
+## Author 3:
+👤 **Hammed Adisa**
+
+- GitHub: [@AbuRayhaan](https://github.com/aburayhaan)
+- Twitter: [@ayinla2011](https://twitter.com/Ayinla2011)
+- LinkedIn: [Hammed Adisa](https://linkedin.com/in/hammed-adisa)
+
 
 ## 🤝 Contributing
 
