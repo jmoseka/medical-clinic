@@ -11,3 +11,10 @@ id BIGSERIAL PRIMARY KEY,
 name VARCHAR(100),
 date_of_birth DATE
 );
+
+CREATE TABLE treatments (
+    id BIGSERIAL PRIMARY KEY,
+    type varchar(100),
+    name varchar(100)
+);
+
