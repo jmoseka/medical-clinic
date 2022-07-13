@@ -1,7 +1,8 @@
 # curriculum-databases-projects-template
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+This project implement the SQL needed to build a database based on the diagram
+
+![image](https://user-images.githubusercontent.com/61447440/178707008-30609eca-fc95-465a-b3da-7527383d6843.png)
 
 
 ## Getting Started
